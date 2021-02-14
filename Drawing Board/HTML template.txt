@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+<!-- Webpage tab title-->    
+<title></title>
+<!--Favicon link-->
+<link rel="icon" href="Image.filetype" type="image/x-icon"/>
+<!-- Link to css file -->
+<link rel="stylesheet" type="text/css" href="style.css">
+<!--Current CSS-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+</head>
+
+<body>
+
+</body>
+</html>
+
+
+<!-- Save your new html code as an .html file to convert this from text into html. -->
